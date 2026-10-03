@@ -1,3 +1,8 @@
+## This is a program of a chaotic double pendulum system simulation. Eventually I will implement control laws so that the pendulum can stabilize about any equilibrium ##
+## Evan Ridinger ##
+## 06/13/2026 ##
+## Throughout the code, Lagrangian mechanics were used to model the chaotic system ##
+
 ## Importation of needed mathmatical tools
 import numpy as np
 import sympy as smp
